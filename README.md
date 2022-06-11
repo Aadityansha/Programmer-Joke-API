@@ -1,4 +1,4 @@
-# Programmer-Joker-API
+# Programmer-Joke-API
 
 REST API that gives you funny and interesting Programming Jokes.
 
